@@ -1,6 +1,6 @@
 {
     "name": "@bigboblittle/skiptrycatch",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "description": "a utility module to skip try-catch in async/await express routes",
     "repository": "{bigboblittle/skipTryCatch}",
     "main": "index.js",
