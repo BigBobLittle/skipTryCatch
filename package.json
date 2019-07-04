@@ -5,9 +5,11 @@
     "repository": "bigboblittle/skipTryCatch",
     "main": "index.js",
     "keywords": [
-        "skipAsynAwait",
+        "skipTryCatchInAsynAwait",
         "skipTryCatch",
         "preventTryCatch",
-        "skipTryCatchInAsycAwaitRoutes"
+        "skipTryCatchInAsyncAwaitRoutes",
+        "prevent long chains of try catch in asyn express routes",
+        "express async routes with no try catch "
     ]
 }
