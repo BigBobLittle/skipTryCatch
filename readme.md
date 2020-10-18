@@ -14,8 +14,10 @@ use command `npm i @bigboblittle/skipTryCatch`
 Require the package 
 
 ```js
+
 const skipTryCatch = require('@bigboblittle/skiptrycatch').skipTryCatch;
-```   
+
+```  
 
 Example use case
 wrap the module around your express routes
@@ -25,6 +27,7 @@ wrap the module around your express routes
 
      //no need to call try catch here, the package will take care of it
  }); 
+
  ```
 
 
@@ -32,7 +35,7 @@ wrap the module around your express routes
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Version
-current v4.0.0
+current v3.1.3
 
 ## Author 
 Big Bob Little 
