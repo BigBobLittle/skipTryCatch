@@ -1,10 +1,12 @@
 {
     "name": "@bigboblittle/skiptrycatch",
-    "version": "3.1.1",
+    "version": "3.1.2",
     "description": "a utility module to skip try-catch in async/await express routes",
     "repository": "bigboblittle/skipTryCatch",
     "main": "index.js",
-    "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
     "keywords": [
         "skipTryCatchInAsynAwait",
         "skipTryCatch",
