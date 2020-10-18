@@ -13,15 +13,19 @@ use command `npm i @bigboblittle/skipTryCatch`
 ### Usage 
 Require the package 
 
-`const skipTryCatch = require('@bigboblittle/skiptrycatch').skipTryCatch;`
+```js
+const skipTryCatch = require('@bigboblittle/skiptrycatch').skipTryCatch;
+```   
 
 Example use case
 wrap the module around your express routes
  
- `exports.bigboblittle = skipTryCatch(async(req,res,next) => { `
+ ```js 
+ exports.bigboblittle = skipTryCatch(async(req,res,next) => { 
 
      //no need to call try catch here, the package will take care of it
- `}); `
+ }); 
+ ```
 
 
 ## License
